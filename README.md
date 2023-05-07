@@ -13,11 +13,11 @@ npx create-next-app@latest
 
 Create an postgres database in vercel dashboard
 
-Open [https://vercel.com/dashboard] vercel dashboard
+Open [https://vercel.com/dashboard](vercel dashboard) vercel dashboard
 
 then goto storage Tab
 
-Open [https://vercel.com/dashboard/stores] vercel Storage
+Open [https://vercel.com/dashboard/stores](vercel Storage) vercel Storage
 
 ### step 3
 
@@ -56,6 +56,6 @@ status boolean default true not null,
 
 ### step 5
 
-Open [https://github.com/drizzle-team/drizzle-orm] Drizzle-orm documentation
+Open [https://github.com/drizzle-team/drizzle-orm](Drizzle-orm) Drizzle-orm documentation
 
-follow this [https://github.com/drizzle-team/drizzle-orm/blob/main/drizzle-orm/src/pg-core/README.md] for Vercel Postgres
+follow this [https://github.com/drizzle-team/drizzle-orm/blob/main/drizzle-orm/src/pg-core/README.md](Vercel Postgres) for Vercel Postgres
