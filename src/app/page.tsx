@@ -1,7 +1,7 @@
 import Image from "next/image";
 import TodoUI from "./Todo";
 import { sql } from "@vercel/postgres";
-import { db, todoTable } from "./lib/drizzle";
+import { db, todoTable } from "@/lib/drizzle";
 
 export default async function Home() {
   const { rows } = await sql`SELECT * from todo`;
